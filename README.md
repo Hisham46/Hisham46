@@ -39,3 +39,45 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">My Projects:</h3>
+<ul>
+  <li>🔬 Detection of Breast Cancer</li>
+  <li>🛒 Smart Trolley using Arduino and RFID reader and tags</li>
+  <li>🌊 Water Level Controller using Simulink-MATLAB</li>
+  <li>♻️ Waste Segregation using Machine Learning</li>
+  <li>🤖 Virtual Doctor Robot using ESP32</li>
+  <li>🤖 AI Chatbot using React and JavaScript</li>
+  <li>☀️ Solar Inverter using Battery</li>
+</ul>
+
+<h3 align="left">Education:</h3>
+<ul>
+  <li><strong>Bachelor of Engineering, St Joseph Engineering College, Mangaluru</strong> - CGPA: 7.79</li>
+  <li><strong>Pre-University College, Achievers’ PU College, Sakleshpura</strong> - Percentage: 91</li>
+  <li><strong>Secondary School, Oxford English School, Sakleshpura</strong> - Percentage: 88</li>
+</ul>
+
+<h3 align="left">Internships:</h3>
+<ul>
+  <li>🛠️ <strong>Salesforce Administrator Virtual Internship</strong> - Gained hands-on experience with Salesforce tools and workflows.</li>
+  <li>🌐 <strong>Zephyr Technologies and Solutions Pvt Ltd</strong> - Developed a comprehensive understanding of HTML, CSS, and JavaScript.</li>
+</ul>
+
+<h3 align="left">Coursera Certificates:</h3>
+<ul>
+  <li>📜 Prompt Engineering for ChatGPT - Vanderbilt University</li>
+  <li>📜 Introduction to Semiconductor Devices-1 - KSAIT</li>
+  <li>📜 Nanotechnology and Nanosensors - Israel Institute of Technology</li>
+  <li>📜 How Things Work-Introduction to Physics - Virginia University</li>
+  <li>📜 Digital Signal Processing 2 - EPFL</li>
+</ul>
+
+<h3 align="left">Skills:</h3>
+<ul>
+  <li><strong>Programming:</strong> C, C++, Python, Java, Verilog</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Software Tools:</strong> Cadence, Keil uVision, MATLAB, Multisim, Xilinx Vivado</li>
+  <li><strong>Operating Systems:</strong> Windows, Mac, Linux, Ubuntu, Fedora</li>
+  <li><strong>Soft Skills:</strong> Electronic Tinkering, Team Management, Creative Thinking, Problem Solving, Multitasking</li>
+</ul>
