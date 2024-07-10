@@ -90,4 +90,35 @@
   body {
     background: linear-gradient(to right, #ece9e6, #ffffff);
   }
+
+  @keyframes slide {
+    0% {transform: translateY(0);}
+    25% {transform: translateY(-100%);}
+    50% {transform: translateY(-200%);}
+    75% {transform: translateY(-300%);}
+    100% {transform: translateY(-400%);}
+  }
+
+  .github-animation {
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .github-animation div {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    white-space: nowrap;
+    animation: slide 10s linear infinite;
+  }
 </style>
+
+<div class="github-animation" align="center">
+  <div>
+    <p>Hi there! 👋 I'm Hisham</p>
+    <p>An Enthusiastic Frontend Developer</p>
+    <p>EC Engineer 🇮🇳</p>
+  </div>
+</div>
