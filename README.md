@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Hisham</h1>
-<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
