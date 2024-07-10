@@ -1,13 +1,9 @@
-<h1 align="center">Hi there! 👋 I'm Hisham</h1>
+align="center">Hi there! 👋 I'm Hisham</h1>
 <h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/assets/github.gif" alt="GitHub Animation" width="50%"/>
-</div>
 
 - 🌱 I’m currently diving into **React, PHP, Vue.js**
 
@@ -79,46 +75,8 @@
 
 <h3 align="left">Skills:</h3>
 <ul>
-  <li><strong>Programming:</strong> C, C++, Python, Java, Verilog</li>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
+  
   <li><strong>Software Tools:</strong> Cadence, Keil uVision, MATLAB, Multisim, Xilinx Vivado</li>
   <li><strong>Operating Systems:</strong> Windows, Mac, Linux, Ubuntu, Fedora</li>
   <li><strong>Soft Skills:</strong> Electronic Tinkering, Team Management, Creative Thinking, Problem Solving, Multitasking</li>
 </ul>
-
-<style>
-  body {
-    background: linear-gradient(to right, #ece9e6, #ffffff);
-  }
-
-  @keyframes slide {
-    0% {transform: translateY(0);}
-    25% {transform: translateY(-100%);}
-    50% {transform: translateY(-200%);}
-    75% {transform: translateY(-300%);}
-    100% {transform: translateY(-400%);}
-  }
-
-  .github-animation {
-    width: 100%;
-    height: 50px;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .github-animation div {
-    display: inline-block;
-    height: 50px;
-    line-height: 50px;
-    white-space: nowrap;
-    animation: slide 10s linear infinite;
-  }
-</style>
-
-<div class="github-animation" align="center">
-  <div>
-    <p>Hi there! 👋 I'm Hisham</p>
-    <p>An Enthusiastic Frontend Developer</p>
-    <p>EC Engineer 🇮🇳</p>
-  </div>
-</div>
